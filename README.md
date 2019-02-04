@@ -1,4 +1,4 @@
-# Maximum Weighted Matching (MWM): Linear Program's View
+# Maximum Weighted Matching: Linear Program's View
 
 Some examples for [Maximum Weighted Matching: from The Perspective of Linear Program](https://www.overleaf.com/read/hkdbjzxzxcpz).
 All these examples are written by [Modeling Language GNU MathProg](http://gusek.sourceforge.net/gmpl.pdf).
