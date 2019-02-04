@@ -1,6 +1,6 @@
 /* MWBM, Maximum Weighted Bipartite Matching Problem */
 
-/* Written in GNU MathProg by Andrew Makhorin <mao@gnu.org> */
+/* Written in GNU MathProg by Long Gong <long.github@gmail.com> */
 
 /* The Maximum Weighted Bipartite Matching in a bipartite Graph G = (U, V, E), 
    where U and V are the two disjointed sets of nodes, E within U x V is a set of edges, 
